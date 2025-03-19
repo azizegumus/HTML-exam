@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PINAR BEREN GÖZCÜ</title>
+    <link rel="stylesheet" href="./css/style.css"> <!-- Harici CSS dosyası için -->
+    
+    <style>
+        /* Sayfa arka planı mavi */
+        .background-blue {
+            background-color: rgb(255, 0, 0);
+            width: 100%;
+            height: 200px;
+        }
+
+        /* Kırmızı metin */
+        .text-red {
+            color: red;
+            font-size: 24px;
+            text-align: center;
+        }
+
+        /* Merkezde metin */
+        .text-center {
+            text-align: center;
+            font-size: 20px;
+        }
+
+        /* Kenarlıklı kutu */
+        #border-box {
+            border: 2px solid red;
+            padding: 10px;
+            width: 150px;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        /* Arka plan resmi eklenmiş kutu */
+        .background-image {
+            background-image: url('berenfoto2.jpg');
+            width: 300px;
+            height: 200px;
+            background-size: cover;
+            background-position: center;
+            margin: 20px auto;
+            border: 2px solid rgb(255, 0, 0);
+        }
+
+        /* Responsive resim */
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="background-blue"></div>
+
+    <h1 class="text-red">PINAR BEREN GÖZCÜ</h1>
+
+    <div class="text-red text-center">BATU'YU SEVİYORUM</div>
+
+    <div id="border-box">&lt;3</div> <!-- Kalp işareti düzeltilmiş -->
+
+    <div class="background-image"></div> <!-- Arka plan resimli div -->
+
+    <img src="Gokyuzu-Manzarasi-39-resim-10957.jpg" alt="Gökyüzü Manzarası"> 
+
+</body>
+</html>
