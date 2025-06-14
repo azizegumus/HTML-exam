@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PINAR BEREN GÖZCÜ</title>
+    <title></title>
     <link rel="stylesheet" href="./css/style.css"> <!-- Harici CSS dosyası için -->
     
     <style>
@@ -60,9 +60,9 @@
 
     <div class="background-blue"></div>
 
-    <h1 class="text-red">PINAR BEREN GÖZCÜ</h1>
+    <h1 class="text-red"> GÖZCÜ</h1>
 
-    <div class="text-red text-center">BATU'YU SEVİYORUM</div>
+    <div class="text-red text-center"></div>
 
     <div id="border-box">&lt;3</div> <!-- Kalp işareti düzeltilmiş -->
 
